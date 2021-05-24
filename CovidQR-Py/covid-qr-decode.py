@@ -4,7 +4,7 @@
 # Licence: Apache 2.0
 #
 # Extract all payloads included in the Covid QR provided by the Quebec government (Preuve/passeport de vaccination)
-# Note: The public key do not seems to be provided by the government at this point.
+# Note: The public key does not seem to be provided by the government at this point.
 #       Hence, it is not possible to validate QR authenticity at the time being. (Although code is provided)
 #       Public keys *should* be available here later on:
 #       https://covid19.quebec.ca/PreuveVaccinaleApi/issuer/.well-known/jwks.json
