@@ -1,0 +1,22 @@
+{
+  "name": "covid-qr-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "covid-qr-decode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guillaume Gagnon",
+  "license": "Apache-2.0",
+  "bin": {
+    "hello": "./covid-qr-decode.js"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "jsqr": "^1.4.0",
+    "node-jose": "^2.0.0",
+    "pngjs": "^6.0.0",
+    "zlib": "^1.0.5"
+  }
+}
